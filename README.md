@@ -5,8 +5,7 @@
 ![Build](https://img.shields.io/badge/build-passing-brightgreen)
 
 ## 📖 소개
-이 프로젝트는 **Java 프로그래밍과 Linux 환경**을 기반으로 한 부트캠프 학습 프로젝트입니다.  
-참가자는 자바 언어 기초부터 리눅스 명령어 활용, 그리고 실무적인 프로젝트 개발 과정을 학습하게 됩니다.
+
 
 ---
 
